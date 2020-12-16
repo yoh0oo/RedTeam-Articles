@@ -23,3 +23,4 @@ some interesting articles about redteam
 - [Tactics, Techniques and Procedures (TTPs) Utilized by FireEye’s Red Team Tools](https://www.picussecurity.com/resource/blog/techniques-tactics-procedures-utilized-by-fireeye-red-team-tools)
 - [alternative-ways-to-pass-the-hash-pth](https://www.n00py.io/2020/12/alternative-ways-to-pass-the-hash-pth/)
 - [cve-2020-17049-kerberos-bronze-bit-attack](https://blog.netspi.com/cve-2020-17049-kerberos-bronze-bit-attack/)
+- [MSSQL GetShell方法](https://xz.aliyun.com/t/8603)
