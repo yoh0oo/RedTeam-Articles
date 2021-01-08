@@ -25,3 +25,4 @@ some interesting articles about redteam
 - [cve-2020-17049-kerberos-bronze-bit-attack](https://blog.netspi.com/cve-2020-17049-kerberos-bronze-bit-attack/)
 - [MSSQL GetShell方法](https://xz.aliyun.com/t/8603)
 - [红队视角看 Sunburst 后门中的 TTPs](https://paper.seebug.org/1443/)
+- [hunting-com-objects](https://www.fireeye.com/blog/threat-research/2019/06/hunting-com-objects.html)
