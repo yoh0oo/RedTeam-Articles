@@ -26,3 +26,6 @@ some interesting articles about redteam
 - [MSSQL GetShell方法](https://xz.aliyun.com/t/8603)
 - [红队视角看 Sunburst 后门中的 TTPs](https://paper.seebug.org/1443/)
 - [hunting-com-objects](https://www.fireeye.com/blog/threat-research/2019/06/hunting-com-objects.html)
+- [抓取HASH的10001种方法](https://mp.weixin.qq.com/s?__biz=MzAwMzYxNzc1OA==&mid=2247490975&idx=1&sn=a7e7e4e5403f8c1a0ade50098c4898c2)
+- [Use msxsl to bypass AppLocker](https://3gstudent.github.io/3gstudent.github.io/Use-msxsl-to-bypass-AppLocker/)
+- [AMSI_bypass](https://evi1cg.me/archives/AMSI_bypass.html)
