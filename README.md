@@ -29,3 +29,5 @@ some interesting articles about redteam
 - [抓取HASH的10001种方法](https://mp.weixin.qq.com/s?__biz=MzAwMzYxNzc1OA==&mid=2247490975&idx=1&sn=a7e7e4e5403f8c1a0ade50098c4898c2)
 - [Use msxsl to bypass AppLocker](https://3gstudent.github.io/3gstudent.github.io/Use-msxsl-to-bypass-AppLocker/)
 - [AMSI_bypass](https://evi1cg.me/archives/AMSI_bypass.html)
+- [VSTO: The Payload Installer That Probably Defeats Your Application Whitelisting Rules](https://bohops.com/2018/01/31/vsto-the-payload-installer-that-probably-defeats-your-application-whitelisting-rules/)
+- [stealth-outlook-persistence](https://vanmieghem.io/stealth-outlook-persistence/) VSTO权限维持
