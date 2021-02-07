@@ -35,3 +35,4 @@ some interesting articles about redteam
 - [ebookBypassingAVsByCsharpProgramming](https://damonmohammadbagher.github.io/Posts/ebookBypassingAVsByCsharpProgramming/index.htm)
 - [windows 计划任务隐藏新姿势分享](https://paper.seebug.org/1464/)
 - [A tale of EDR bypass methods](https://s3cur3th1ssh1t.github.io/A-tale-of-EDR-bypass-methods/)
+- [https://pkb1s.github.io/Relay-attacks-via-Cobalt-Strike-beacons/](Relay-attacks-via-Cobalt-Strike-beacons)
