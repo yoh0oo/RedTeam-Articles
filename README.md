@@ -41,3 +41,4 @@ some interesting articles about redteam
 - [New LSASS Dumping Method via SilentProcessExit (undetected by many EDRs! Uses Windows WerFault.exe to dump from crashed programs automatically by forcing LSASS to crash and using WerFault to dump it](https://www.deepinstinct.com/2021/02/16/lsass-memory-dumps-are-stealthier-than-ever-before-part-2/)
 - [The Lone Sharepoint](https://www.crummie5.club/the-lone-sharepoint/) pentest sharepoint
 - [红蓝对抗中的云原生漏洞挖掘及利用实录](https://security.tencent.com/index.php/blog/msg/183)
+- [Windows & Active Directory Exploitation Cheat Sheet and Command Reference](https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/)
