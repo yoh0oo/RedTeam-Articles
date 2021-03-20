@@ -42,3 +42,4 @@ some interesting articles about redteam
 - [The Lone Sharepoint](https://www.crummie5.club/the-lone-sharepoint/) pentest sharepoint
 - [红蓝对抗中的云原生漏洞挖掘及利用实录](https://security.tencent.com/index.php/blog/msg/183)
 - [Windows & Active Directory Exploitation Cheat Sheet and Command Reference](https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/)
+- [The most common on premises vulnerabilities & misconfigurations _ S3cur3Th1sSh1t](https://s3cur3th1ssh1t.github.io/The-most-common-on-premise-vulnerabilities-and-misconfigurations/)
