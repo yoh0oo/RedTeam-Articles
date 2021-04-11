@@ -44,3 +44,4 @@ some interesting articles about redteam
 - [Windows & Active Directory Exploitation Cheat Sheet and Command Reference](https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/)
 - [The most common on premises vulnerabilities & misconfigurations _ S3cur3Th1sSh1t](https://s3cur3th1ssh1t.github.io/The-most-common-on-premise-vulnerabilities-and-misconfigurations/)
 - [MSSQL 数据库攻击实战指北—防守方攻略](https://paper.seebug.org/1525/)
+- [Do You Really Know About LSA Protection (RunAsPPL)?](https://itm4n.github.io/lsass-runasppl/)
