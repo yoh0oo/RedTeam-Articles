@@ -45,3 +45,4 @@ some interesting articles about redteam
 - [The most common on premises vulnerabilities & misconfigurations _ S3cur3Th1sSh1t](https://s3cur3th1ssh1t.github.io/The-most-common-on-premise-vulnerabilities-and-misconfigurations/)
 - [MSSQL 数据库攻击实战指北—防守方攻略](https://paper.seebug.org/1525/)
 - [Do You Really Know About LSA Protection (RunAsPPL)?](https://itm4n.github.io/lsass-runasppl/)
+- [Silver and Golden Tickets for Pentesters](https://henpeebin.com/kevin/blog/silver-and-golden-tickets-for-pentesters.html)
