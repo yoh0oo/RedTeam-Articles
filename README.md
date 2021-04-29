@@ -46,3 +46,5 @@ some interesting articles about redteam
 - [MSSQL 数据库攻击实战指北—防守方攻略](https://paper.seebug.org/1525/)
 - [Do You Really Know About LSA Protection (RunAsPPL)?](https://itm4n.github.io/lsass-runasppl/)
 - [Silver and Golden Tickets for Pentesters](https://henpeebin.com/kevin/blog/silver-and-golden-tickets-for-pentesters.html)
+- [ADExplorer on Engagements](https://www.trustedsec.com/blog/adexplorer-on-engagements/)
+- [Exporting ADFS certificates revisited: Tactics, Techniques and Procedures](https://o365blog.com/post/adfs/) - 待读
