@@ -48,3 +48,4 @@ some interesting articles about redteam
 - [Silver and Golden Tickets for Pentesters](https://henpeebin.com/kevin/blog/silver-and-golden-tickets-for-pentesters.html)
 - [ADExplorer on Engagements](https://www.trustedsec.com/blog/adexplorer-on-engagements/)
 - [Exporting ADFS certificates revisited: Tactics, Techniques and Procedures](https://o365blog.com/post/adfs/) - 待读
+- [Remote Potato – From Domain User to Enterprise Admin](https://pentestlab.blog/2021/05/04/remote-potato-from-domain-user-to-enterprise-admin/)
