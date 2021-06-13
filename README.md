@@ -50,3 +50,7 @@ some interesting articles about redteam
 - [Exporting ADFS certificates revisited: Tactics, Techniques and Procedures](https://o365blog.com/post/adfs/) - 待读
 - [Remote Potato – From Domain User to Enterprise Admin](https://pentestlab.blog/2021/05/04/remote-potato-from-domain-user-to-enterprise-admin/)
 - [dumping-plaintext-rdp-credentials-from-svchost-exe](https://www.n00py.io/2021/05/dumping-plaintext-rdp-credentials-from-svchost-exe/)
+- [domain trusts series](http://www.harmj0y.net/blog/tag/domain-trusts/)
+- [a guide to attacking domain trusts](http://www.harmj0y.net/blog/redteaming/a-guide-to-attacking-domain-trusts/)
+- [Active Directory forest trusts part 1 - How does SID filtering work?](https://dirkjanm.io/active-directory-forest-trusts-part-one-how-does-sid-filtering-work/)
+- [Active Directory forest trusts part 2 - Trust transitivity and finding a trust bypass](https://dirkjanm.io/active-directory-forest-trusts-part-two-trust-transitivity/) --- to read
