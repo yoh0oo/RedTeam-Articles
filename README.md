@@ -54,3 +54,4 @@ some interesting articles about redteam
 - [a guide to attacking domain trusts](http://www.harmj0y.net/blog/redteaming/a-guide-to-attacking-domain-trusts/)
 - [Active Directory forest trusts part 1 - How does SID filtering work?](https://dirkjanm.io/active-directory-forest-trusts-part-one-how-does-sid-filtering-work/)
 - [Active Directory forest trusts part 2 - Trust transitivity and finding a trust bypass](https://dirkjanm.io/active-directory-forest-trusts-part-two-trust-transitivity/) --- to read
+- [CVE-2021-36934](https://github.com/n3tsurge/CVE-2021-36934/blob/main/Get-HiveNightmareStatus.ps1) win10 affected and need shadowcopy
