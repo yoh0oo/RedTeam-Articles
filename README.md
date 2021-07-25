@@ -56,3 +56,4 @@ some interesting articles about redteam
 - [Active Directory forest trusts part 2 - Trust transitivity and finding a trust bypass](https://dirkjanm.io/active-directory-forest-trusts-part-two-trust-transitivity/) --- to read
 - [CVE-2021-36934](https://github.com/n3tsurge/CVE-2021-36934/blob/main/Get-HiveNightmareStatus.ps1) win10 affected and need shadowcopy
 - [windows-command-line-obfuscation](https://www.wietzebeukema.nl/blog/windows-command-line-obfuscation)
+- [fantastic-windows-logon-types-and-where-to-find-credentials-in-them](https://www.alteredsecurity.com/post/fantastic-windows-logon-types-and-where-to-find-credentials-in-them)
