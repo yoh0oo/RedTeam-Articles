@@ -58,3 +58,4 @@ some interesting articles about redteam
 - [windows-command-line-obfuscation](https://www.wietzebeukema.nl/blog/windows-command-line-obfuscation)
 - [fantastic-windows-logon-types-and-where-to-find-credentials-in-them](https://www.alteredsecurity.com/post/fantastic-windows-logon-types-and-where-to-find-credentials-in-them)
 - [an-introduction-to-manual-active-directory-querying-with-dsquery-and-ldapsearch](https://posts.specterops.io/an-introduction-to-manual-active-directory-querying-with-dsquery-and-ldapsearch-84943c13d7eb) dsquery and ldapsearch
+- [AZURE AD INTRODUCTION FOR RED TEAMERS](https://www.synacktiv.com/en/publications/azure-ad-introduction-for-red-teamers.html#)
