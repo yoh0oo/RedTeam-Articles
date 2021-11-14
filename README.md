@@ -59,3 +59,4 @@ some interesting articles about redteam
 - [fantastic-windows-logon-types-and-where-to-find-credentials-in-them](https://www.alteredsecurity.com/post/fantastic-windows-logon-types-and-where-to-find-credentials-in-them)
 - [an-introduction-to-manual-active-directory-querying-with-dsquery-and-ldapsearch](https://posts.specterops.io/an-introduction-to-manual-active-directory-querying-with-dsquery-and-ldapsearch-84943c13d7eb) dsquery and ldapsearch
 - [AZURE AD INTRODUCTION FOR RED TEAMERS](https://www.synacktiv.com/en/publications/azure-ad-introduction-for-red-teamers.html#)
+- [Kerberoast with OpSec](https://m365internals.com/2021/11/08/kerberoast-with-opsec/amp/)
