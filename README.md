@@ -60,3 +60,4 @@ some interesting articles about redteam
 - [an-introduction-to-manual-active-directory-querying-with-dsquery-and-ldapsearch](https://posts.specterops.io/an-introduction-to-manual-active-directory-querying-with-dsquery-and-ldapsearch-84943c13d7eb) dsquery and ldapsearch
 - [AZURE AD INTRODUCTION FOR RED TEAMERS](https://www.synacktiv.com/en/publications/azure-ad-introduction-for-red-teamers.html#)
 - [Kerberoast with OpSec](https://m365internals.com/2021/11/08/kerberoast-with-opsec/amp/)
+- [The Kerberos Key List Attack: The return of the Read Only Domain Controllers](https://www.secureauth.com/blog/the-kerberos-key-list-attack-the-return-of-the-read-only-domain-controllers/)
