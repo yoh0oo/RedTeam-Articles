@@ -61,3 +61,5 @@ some interesting articles about redteam
 - [AZURE AD INTRODUCTION FOR RED TEAMERS](https://www.synacktiv.com/en/publications/azure-ad-introduction-for-red-teamers.html#)
 - [Kerberoast with OpSec](https://m365internals.com/2021/11/08/kerberoast-with-opsec/amp/)
 - [The Kerberos Key List Attack: The return of the Read Only Domain Controllers](https://www.secureauth.com/blog/the-kerberos-key-list-attack-the-return-of-the-read-only-domain-controllers/)
+- [Reliable Username Enumeration: A step-by-step guide](https://www.sprocketsecurity.com/blog/reliable-username-enumeration-a-step-by-step-guide)
+- [Password spraying and MFA bypasses in the modern security landscape](https://www.sprocketsecurity.com/blog/how-to-bypass-mfa-all-day#)
