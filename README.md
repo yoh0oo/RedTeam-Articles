@@ -63,3 +63,5 @@ some interesting articles about redteam
 - [The Kerberos Key List Attack: The return of the Read Only Domain Controllers](https://www.secureauth.com/blog/the-kerberos-key-list-attack-the-return-of-the-read-only-domain-controllers/)
 - [Reliable Username Enumeration: A step-by-step guide](https://www.sprocketsecurity.com/blog/reliable-username-enumeration-a-step-by-step-guide)
 - [Password spraying and MFA bypasses in the modern security landscape](https://www.sprocketsecurity.com/blog/how-to-bypass-mfa-all-day#)
+- [Red Team Techniques for Evading, Bypassing, and Disabling MS
+Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.com/docs/eu-17/materials/eu-17-Thompson-Red-Team-Techniques-For-Evading-Bypassing-And-Disabling-MS-Advanced-Threat-Protection-And-Advanced-Threat-Analytics.pdf)
