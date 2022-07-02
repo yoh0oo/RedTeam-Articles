@@ -66,3 +66,4 @@ some interesting articles about redteam
 - [Red Team Techniques for Evading, Bypassing, and Disabling MS
 Advanced Threat Protection and Advanced Threat Analytics](https://www.blackhat.com/docs/eu-17/materials/eu-17-Thompson-Red-Team-Techniques-For-Evading-Bypassing-And-Disabling-MS-Advanced-Threat-Protection-And-Advanced-Threat-Analytics.pdf)
 - [Certifried: Active Directory Domain Privilege Escalation (CVE-2022–26923)](https://research.ifcr.dk/certifried-active-directory-domain-privilege-escalation-cve-2022-26923-9e098fe298f4)
+- [red-team-blog-cve-2022-28219](https://www.horizon3.ai/red-team-blog-cve-2022-28219/)
